@@ -114,7 +114,6 @@
 </td>
 </tr>
 </table>
-<h2>Selected work</h2>
 
 <h2>Consistency signal</h2>
 
