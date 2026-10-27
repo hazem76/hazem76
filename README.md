@@ -7,7 +7,7 @@
 <h1>ENG. Hazem G</h1>
 <h2>Full-stack Software Engineer/AI, AIOps & Automation Engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p><strong>● From zero to production: Automated infrastructure, observable systems, and resilient code</strong></p>
 
 <p><a href="https://github.com/hazem76">GitHub</a></p>
 </td>
