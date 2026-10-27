@@ -4,7 +4,7 @@
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · hazem76</sub></p>
-<h1>hazem76</h1>
+<h1>ENG. Hazem G</h1>
 <h2>Full-stack Software Engineer/AI, AIOps & Automation Engineer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack Software Engineer/AI, AIOps & Automation Engineer · Python · Jupyter Notebook · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack Software Engineer/AI, AIOps & Automation Engineer</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>11 contributions · 3 active days</p></td>
 </tr>
