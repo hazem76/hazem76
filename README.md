@@ -47,7 +47,28 @@
   <img src="https://www.gitskins.com/api/section/stats?username=hazem76&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F97793784%3Fu%3Dfdab0cc88bcafd929d44c3adbb4fb7191fbfe6c5%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="hazem76 GitHub proof metrics" />
 </picture>
 </p>
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+<h3>💻 Tech Stack & Tooling</h3>
+<br />
+<p><strong>⚙️ AI, LLMs & MLOps:</strong><br />
+<sub>Python · PyTorch · TensorFlow · scikit-learn · LangChain · RAG · Vector Databases · MLflow</sub></p>
 
+<p><strong>☁️ AIOps, Cloud & DevOps Infra:</strong><br />
+<sub>Microsoft Azure · AWS · OpenTelemetry · Prometheus · Grafana · Docker · Kubernetes · Jenkins · CI/CD Pipelines</sub></p>
+
+<p><strong>⚡ Automation & Workflows:</strong><br />
+<sub>n8n · Bonita BPM · REST APIs · Asynchronous Workflows</sub></p>
+
+<p><strong>🛠️ Programming & Backend:</strong><br />
+<sub>JavaScript · HTML/CSS · C# · Java · Go · SQL · Node.js</sub></p>
+
+<p><strong>🎨 UI/UX Design:</strong><br />
+<sub>Figma · Product Design Lifecycle · Wireframing · Design Systems</sub></p>
+</td>
+</tr>
+</table>
 <h2>Selected work</h2>
 
 <table width="100%">
