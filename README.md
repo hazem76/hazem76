@@ -50,26 +50,6 @@
 <table width="100%">
 <tr>
 <td width="100%" valign="top">
-<h3>💻 Tech Stack & Tooling</h3>
-<br />
-<p><strong>⚙️ AI, LLMs & MLOps:</strong><br />
-<sub>Python · PyTorch · TensorFlow · scikit-learn · LangChain · RAG · Vector Databases · MLflow</sub></p>
-
-<p><strong>☁️ AIOps, Cloud & DevOps Infra:</strong><br />
-<sub>Microsoft Azure · AWS · OpenTelemetry · Prometheus · Grafana · Docker · Kubernetes · Jenkins · CI/CD Pipelines</sub></p>
-
-<p><strong>⚡ Automation & Workflows:</strong><br />
-<sub>n8n · Bonita BPM · REST APIs · Asynchronous Workflows</sub></p>
-
-<p><strong>🛠️ Programming & Backend:</strong><br />
-<sub>JavaScript · HTML/CSS · C# · Java · Go · SQL · Node.js</sub></p>
-
-<p><strong>🎨 UI/UX Design:</strong><br />
-<sub>Figma · Product Design Lifecycle · Wireframing · Design Systems</sub></p>
-</td>
-</tr>
-</table>
-<h2>Selected work</h2>
 
 <table width="100%">
 <tr>
@@ -114,6 +94,27 @@
 <td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
 </tr>
 </table>
+
+<h3>💻 Tech Stack & Tooling</h3>
+<br />
+<p><strong>⚙️ AI, LLMs & MLOps:</strong><br />
+<sub>Python · PyTorch · TensorFlow · scikit-learn · LangChain · RAG · Vector Databases · MLflow</sub></p>
+
+<p><strong>☁️ Cloud & DevOps Infra:</strong><br />
+<sub>Microsoft Azure · AWS · OpenTelemetry · Prometheus · Grafana · Docker · Kubernetes · Jenkins · CI/CD Pipelines</sub></p>
+
+<p><strong>⚡ Automation & Workflows:</strong><br />
+<sub>n8n · Bonita BPM · REST APIs · Asynchronous Workflows</sub></p>
+
+<p><strong>🛠️ Programming & Backend:</strong><br />
+<sub>JavaScript · HTML/CSS · C# · Java · Go · SQL · Node.js</sub></p>
+
+<p><strong>🎨 UI/UX Design:</strong><br />
+<sub>Figma · Product Design Lifecycle · Wireframing · Design Systems</sub></p>
+</td>
+</tr>
+</table>
+<h2>Selected work</h2>
 
 <h2>Consistency signal</h2>
 
